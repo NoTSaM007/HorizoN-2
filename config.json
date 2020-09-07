@@ -1,10 +1,9 @@
 {
   "PREFIX": "+",
-  "TOKEN": "NzQyMzc1MTU0NjU0MzgwMDgy.XzFMvQ.C_BTgLDMW0MWQ7yxZKMjsb48VT4",
-  "YOUTUBE_API_KEY": "AIzaSyBJ-zF75_PwWVxifAaYEVKd4810o0rWXfk",
+  "TOKEN": " ",
+  "YOUTUBE_API_KEY": " ",
   "PREFIX": "+",
   "QUEUE_LIMIT": 0,
   "COLOR": "#00ffff",
-  "inviteURL": "https://discord.com/api/oauth2/authorize?client_id=742375154654380082&permissions=8&scope=bot,",
-  "owner_id": "606305489772609558"
+  "inviteURL": " "
 }
